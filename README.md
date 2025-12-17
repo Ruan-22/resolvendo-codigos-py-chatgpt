@@ -28,7 +28,7 @@ Descrição: Receberemos um número inteiro como entrada e verificaremos se o n�
 
 ## 5 - Calculando Média
 
-Descrição: Iremos calcular três notas fornecidas pelo usuário
+Descrição: Iremos calcular a média de três notas fornecidas pelo usuário
 
 <br>
 
