@@ -1,4 +1,4 @@
-# Testar se a string é um palíndromo7
+# Testar se a string é um palíndromo
 
 texto = input("Digite uma palavra ou frase: ")
 
