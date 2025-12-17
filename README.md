@@ -19,3 +19,19 @@ Descrição: Solicitaremos uma string e um número inteiro. Em seguida retornare
 Descrição: Solicitaremos dois números com entrada e depois realizaremos uma das quatro operações básicas.
 
 <br>
+
+## 4 - Verificando Números
+
+Descrição: Receberemos um número inteiro como entrada e verificaremos se o número é par ou ímpar.
+
+<br>
+
+## 5 - Calculando Média
+
+Descrição: Iremos calcular três notas fornecidas pelo usuário
+
+<br>
+
+## 6 - Verificando Palíndromo
+
+Descrição: Receberemos uma string e testaremos se ela é um palíndromo, invertendo ela e comparando-a.
